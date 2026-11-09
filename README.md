@@ -1,5 +1,5 @@
 # cautious-waffle
-Primo Discovery Showcase files for LibGuides and webpage (test)
+Primo Discovery Showcase files for LibGuides - currently for proof of concept testing
 
 # QMUL Primo Discovery Showcase
 
