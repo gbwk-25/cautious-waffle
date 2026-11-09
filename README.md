@@ -4,14 +4,14 @@ Primo Discovery Showcase files for LibGuides and webpage (test)
 # QMUL Primo Discovery Showcase
 
 This repository hosts the Ex Libris Primo Discovery Showcase
-JavaScript used by Queen Mary University of London Library
-Services to display Primo search carousels in LibGuides.
+JavaScript used by QMUL Library Services to display Primo
+search carousels in LibGuides.
 
-Upstream project:
-ExLibrisGroup/Discovery-Showcase
+Source of bundled JavaScript:
+https://github.com/ExLibrisGroup/Discovery-Showcase-demo
 
-The Discovery Showcase component is provided by Ex Libris
-under the BSD 3-Clause licence.
+Related Ex Libris source project:
+https://github.com/ExLibrisGroup/Discovery-Showcase
 
 The bundled JavaScript is hosted here to provide a stable
 web-accessible asset for QMUL Library Services LibGuides.
